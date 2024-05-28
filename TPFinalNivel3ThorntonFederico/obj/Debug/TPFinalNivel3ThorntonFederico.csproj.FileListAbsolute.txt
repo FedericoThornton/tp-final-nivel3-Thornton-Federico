@@ -1,0 +1,12 @@
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\bin\TPFinalNivel3ThorntonFederico.dll.config
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\bin\TPFinalNivel3ThorntonFederico.dll
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\bin\TPFinalNivel3ThorntonFederico.pdb
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\bin\Dominio.dll
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\bin\Negocio.dll
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\bin\Dominio.pdb
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\bin\Negocio.pdb
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\obj\Debug\TPFinalNivel3ThorntonFederico.csproj.AssemblyReference.cache
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\obj\Debug\TPFinalNivel3ThorntonFederico.csproj.CoreCompileInputs.cache
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\obj\Debug\TPFinalN.4768BC39.Up2Date
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\obj\Debug\TPFinalNivel3ThorntonFederico.dll
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO C SHARP 3\TPFinalNivel3ThorntonFederico\TPFinalNivel3ThorntonFederico\obj\Debug\TPFinalNivel3ThorntonFederico.pdb
