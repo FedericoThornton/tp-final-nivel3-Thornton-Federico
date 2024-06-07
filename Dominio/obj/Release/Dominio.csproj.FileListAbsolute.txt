@@ -1,0 +1,6 @@
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Dominio\bin\Release\Dominio.dll
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Dominio\bin\Release\Dominio.pdb
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Dominio\obj\Release\Dominio.dll
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Dominio\obj\Release\Dominio.pdb

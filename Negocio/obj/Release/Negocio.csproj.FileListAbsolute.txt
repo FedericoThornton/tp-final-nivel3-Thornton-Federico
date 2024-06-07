@@ -1,0 +1,9 @@
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Negocio\bin\Release\Negocio.dll
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Negocio\bin\Release\Negocio.pdb
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Negocio\bin\Release\Dominio.dll
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Negocio\bin\Release\Dominio.pdb
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Negocio\obj\Release\Negocio.dll
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Negocio\obj\Release\Negocio.pdb
+C:\Users\fedet\OneDrive\Escritorio\CURSO Csharp\CURSO 2 C SHARP\TPFinalNivel2_Thornton\Negocio\obj\Release\Negocio.csproj.Up2Date
